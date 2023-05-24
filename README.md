@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vinayak-Shrivastava
-- 👀 I’m interested in Game Development , Web Development
-- 🌱 I’m currently learning PHP,C
+- 👀 I’m interested in Development, ML and AI
 - 💞️ I’m looking to collaborate on any intresting ideas
 - 📫 How to reach me : mail me @shrivastava.vinayak.iitkgp@gmail.com
 
